@@ -1,12 +1,11 @@
 ## About
 
-Currently Software Engineer at [Freeletics GmbH](https://www.freeletics.com).
+Software Engineer for mobile platforms since 2011.
 
-Curious about new technologies, design patterns, software architecture. Thinking functional.
+Passionate about mobile software development, solutions for Internet of Things and machine learning.
 
-Interested in solutions for Internet of Things, machine learning and microcontrollers.
+Interested in new technologies, design patterns, clean software architecture, microcontrollers. 
 
-Believe in open source. 
+Thinking functional. Hackathons participant. Believe in open source. 
 
-
-More TBD soon
+From Kharkiv (Ukraine), living in Munich (Germany).
