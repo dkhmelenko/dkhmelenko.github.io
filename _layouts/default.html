@@ -21,9 +21,29 @@
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         {% endif %}
 
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+         {% if site.github_username %}
+              <a href="https://github.com/{{ site.github_username }}">
+                <img src="img/Github.png" alt="GitHub" style="width:42px;height:42px;border:3;">
+              </a>
+          {% endif %}
+
+          {% if site.linkedin_username %}
+              <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+                <img src="img/Linkedin.png" alt="LinkedIn" style="width:42px;height:42px;border:0;">
+              </a>
+          {% endif %}
+
+          {% if site.facebook_username %}  
+              <a href="https://www.facebook.com/{{ site.facebook_username }}">
+                <img src="img/Facebook.png" alt="Facebook" style="width:42px;height:42px;border:0;">
+              </a>
+          {% endif %}
+
+          {% if site.twitter_username %}
+              <a href="https://twitter.com/{{ site.twitter_username }}">
+                <img src="img/Twitter.png" alt="Twitter" style="width:42px;height:42px;border:0;">
+              </a>
+          {% endif %}
 
         {% if site.show_downloads %}
           <ul>
@@ -41,42 +61,7 @@
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
- 
-
-          {% if site.github_username %}
-
-              <a href="https://github.com/{{ site.github_username }}">
-                <img src="img/GitHub.png" alt="GitHub" style="width:42px;height:42px;border:0;">
-              </a>
-
-          {% endif %}
-
-          {% if site.linkedin_username %}
-     
-              <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-                <img src="img/LinkedIn.png" alt="LinkedIn" style="width:42px;height:42px;border:0;">
-              </a>
-            
-          {% endif %}
-
-          {% if site.facebook_username %}
-          
-              <a href="https://www.facebook.com/{{ site.facebook_username }}">
-                <img src="img/Facebook.png" alt="Facebook" style="width:42px;height:42px;border:0;">
-              </a>
-         
-          {% endif %}
-
-          {% if site.twitter_username %}
-           
-              <a href="https://twitter.com/{{ site.twitter_username }}">
-                <img src="img/Twitter.png" alt="Twitter" style="width:42px;height:42px;border:0;">
-              </a>
-            
-          {% endif %}
-
-         
+        {% endif %}   
         
       </footer>
     </div>
