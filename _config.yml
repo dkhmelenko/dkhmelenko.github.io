@@ -1,7 +1,33 @@
-theme: jekyll-theme-minimal
-title: Dmytro Khmelenko
-description: Software Engineer
-twitter_username:     dkhmelenko
-github_username:      dkhmelenko
-linkedin_username:    dmytro-khmelenko-74401858
-facebook_username:    100009948916323
+name: Dmytro Khmelenko
+description: "Software Engineer"
+url: ""
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username:  dkhmelenko
+facebook_username: 100009948916323
+twitter_username: dkhmelenko
+linkedin_username: dmytro-khmelenko-74401858
+medium_username:  d.khmelenko
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.jpg""
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "img/profile.jpg"
+
+
+front_img: no
+front_img_path: "imgs/background.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: no
+favicon_img_path: "imgs/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
