@@ -40,7 +40,7 @@ h3 {
     padding-bottom: 40px;
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
-    min-height: 100%;
+    height: auto;
 }
 ul {
     list-style: none;
