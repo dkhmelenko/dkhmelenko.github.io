@@ -7,8 +7,6 @@ body {
     right: 0;
     left: 0;
     margin: 0;
-    min-height: 100%;
-    height: auto;
 }
 #fullscreen {
     z-index: -999;
@@ -42,6 +40,7 @@ h3 {
     padding-bottom: 40px;
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
+    height: auto;
 }
 ul {
     list-style: none;
