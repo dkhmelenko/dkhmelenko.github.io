@@ -41,7 +41,8 @@ h3 {
     text-align: center;
     overflow: auto;
     height: 100%;
-    align-content: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
 }
 ul {
     list-style: none;
