@@ -19,9 +19,6 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    background-position: center center;
-    background-repeat: no-repeat;
-    overflow: hidden;
 }
 #avatar {
     height: 180px;
@@ -41,8 +38,8 @@ h3 {
     font-weight: thin;
 }
 .content {
-    padding-top: 100px;
-    padding-bottom: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
     min-height: 100%;
