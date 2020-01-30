@@ -18,6 +18,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
+    overflow: auto;
 }
 #avatar {
     height: 180px;
