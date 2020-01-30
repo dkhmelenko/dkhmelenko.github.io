@@ -41,7 +41,7 @@ h3 {
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
     overflow: auto;
-    height: 100%; 
+    position: absolute;
 }
 ul {
     list-style: none;
