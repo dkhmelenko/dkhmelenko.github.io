@@ -23,7 +23,7 @@ body {
     border-radius: 100%;
     border: 5px solid white;
     margin-bottom: 40px;
-    margin-top: 40px;
+    margin-top: 100px;
 }
 h1 {
     color: white;
@@ -41,8 +41,6 @@ h3 {
     text-align: center;
     overflow: auto;
     height: 100%;
-    margin-bottom: 40px;
-    margin-top: 40px;
 }
 ul {
     list-style: none;
