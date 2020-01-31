@@ -8,6 +8,10 @@ body {
     left: 0;
     margin: 0;
     overflow: auto;
+    display: flex; 
+    min-height: 100vh; 
+    background: #000 url(‘../img/background.jpg’); 
+    background-size: cover;
 }
 #fullscreen {
     z-index: -999;
@@ -40,7 +44,7 @@ h3 {
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
     overflow: auto;
-    height: 100%;
+    margin: auto;
 }
 ul {
     list-style: none;
