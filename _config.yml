@@ -2,8 +2,7 @@ name: Dmytro Khmelenko
 title: Dmytro Khmelenko
 description: |
   AWS Certified Developer & Solutions Architect
-  Software Engineer @ Freeletics
-url: "https://www.freeletics.com"
+  Software Engineer
 
 
 # Delete the lines you don't need
@@ -12,7 +11,7 @@ github_username:  dkhmelenko
 twitter_username: dkhmelenko
 linkedin_username: dmytro-khmelenko
 # xing_username: Dmytro_Khmelenko
-medium_username:  d.khmelenko
+medium_username:  dkhmelenko
 
 avatar: yes
 #avatar_img_path: "imgs/avatar.jpg""
