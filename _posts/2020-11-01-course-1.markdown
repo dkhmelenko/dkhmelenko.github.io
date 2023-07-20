@@ -1,0 +1,9 @@
+---
+title: Practical Git
+subtitle: Learning Git with no experience
+layout: default
+external_url: https://www.udemy.com/course/practical-git-for-absolute-beginners/
+date: 2020-11-01
+thumbnail: practical-git-thumbnail.jpg
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+---

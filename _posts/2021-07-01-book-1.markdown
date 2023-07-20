@@ -1,0 +1,10 @@
+---
+title: Unlock the Code
+subtitle: Growth book for software developers
+layout: default
+external_url: https://www.amazon.com/dp/B098LNMFCJ
+date: 2021-07-01
+thumbnail: unlock-the-code-thumbnail.png
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

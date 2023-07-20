@@ -1,0 +1,10 @@
+---
+title: Public Speaking Guide
+subtitle: Make your speach memorable
+layout: default
+external_url: https://dkhmelenko.gumroad.com/l/public_speaking_guide
+date: 2023-03-01
+thumbnail: public-speaking-guide-thumbnail.png
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

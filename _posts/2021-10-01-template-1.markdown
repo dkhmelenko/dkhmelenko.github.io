@@ -1,0 +1,10 @@
+---
+title: AWS Starter Template
+subtitle: Guide to basic AWS cloud services
+layout: default
+external_url: https://dkhmelenko.gumroad.com/l/aws-starter-template
+date: 2021-10-01
+thumbnail: aws-starter-template-thumbnail.jpg
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

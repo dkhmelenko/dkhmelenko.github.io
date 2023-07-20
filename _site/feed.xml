@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Dmytro Khmelenko | Software Engineer. Consultant. Instructor. Speaker</description>
+    <link>http://localhost:4000/agency-jekyll-theme//</link>
+    <atom:link href="http://localhost:4000/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 20 Jul 2023 14:17:15 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Jul 2023 14:17:15 +0200</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Public Speaking Guide</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Mar 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/agency-jekyll-theme//2023/03/01/template-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//2023/03/01/template-3/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Interview Preparation</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/agency-jekyll-theme//2023/01/01/template-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//2023/01/01/template-2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>AWS Essentials</title>
+        <description>
+</description>
+        <pubDate>Mon, 01 Aug 2022 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/agency-jekyll-theme//2022/08/01/book-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//2022/08/01/book-2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>AWS Starter Template</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/agency-jekyll-theme//2021/10/01/template-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//2021/10/01/template-1/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Unlock the Code</title>
+        <description>
+</description>
+        <pubDate>Thu, 01 Jul 2021 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/agency-jekyll-theme//2021/07/01/book-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//2021/07/01/book-1/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Practical Git</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Nov 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/agency-jekyll-theme//2020/11/01/course-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//2020/11/01/course-1/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

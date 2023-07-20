@@ -1,0 +1,10 @@
+---
+title: Interview Preparation
+subtitle: Tips for your next technical interview
+layout: default
+external_url: https://dkhmelenko.gumroad.com/l/interview_preparation_template
+date: 2023-01-01
+thumbnail: interview-preparation-template-thumbnail.png
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
